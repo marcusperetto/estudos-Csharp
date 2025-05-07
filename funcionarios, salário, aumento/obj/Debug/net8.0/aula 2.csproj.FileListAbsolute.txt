@@ -1,0 +1,14 @@
+/home/marcus/Documentos/cursos de programação Udemy/C#/aula 2/bin/Debug/net8.0/aula 2
+/home/marcus/Documentos/cursos de programação Udemy/C#/aula 2/bin/Debug/net8.0/aula 2.deps.json
+/home/marcus/Documentos/cursos de programação Udemy/C#/aula 2/bin/Debug/net8.0/aula 2.runtimeconfig.json
+/home/marcus/Documentos/cursos de programação Udemy/C#/aula 2/bin/Debug/net8.0/aula 2.dll
+/home/marcus/Documentos/cursos de programação Udemy/C#/aula 2/bin/Debug/net8.0/aula 2.pdb
+/home/marcus/Documentos/cursos de programação Udemy/C#/aula 2/obj/Debug/net8.0/aula 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcus/Documentos/cursos de programação Udemy/C#/aula 2/obj/Debug/net8.0/aula 2.AssemblyInfoInputs.cache
+/home/marcus/Documentos/cursos de programação Udemy/C#/aula 2/obj/Debug/net8.0/aula 2.AssemblyInfo.cs
+/home/marcus/Documentos/cursos de programação Udemy/C#/aula 2/obj/Debug/net8.0/aula 2.csproj.CoreCompileInputs.cache
+/home/marcus/Documentos/cursos de programação Udemy/C#/aula 2/obj/Debug/net8.0/aula 2.dll
+/home/marcus/Documentos/cursos de programação Udemy/C#/aula 2/obj/Debug/net8.0/refint/aula 2.dll
+/home/marcus/Documentos/cursos de programação Udemy/C#/aula 2/obj/Debug/net8.0/aula 2.pdb
+/home/marcus/Documentos/cursos de programação Udemy/C#/aula 2/obj/Debug/net8.0/aula 2.genruntimeconfig.cache
+/home/marcus/Documentos/cursos de programação Udemy/C#/aula 2/obj/Debug/net8.0/ref/aula 2.dll
