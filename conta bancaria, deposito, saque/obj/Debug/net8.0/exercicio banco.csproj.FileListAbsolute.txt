@@ -1,0 +1,14 @@
+/home/marcus/Documentos/cursos de programação Udemy/C#/exercicio banco/bin/Debug/net8.0/exercicio banco
+/home/marcus/Documentos/cursos de programação Udemy/C#/exercicio banco/bin/Debug/net8.0/exercicio banco.deps.json
+/home/marcus/Documentos/cursos de programação Udemy/C#/exercicio banco/bin/Debug/net8.0/exercicio banco.runtimeconfig.json
+/home/marcus/Documentos/cursos de programação Udemy/C#/exercicio banco/bin/Debug/net8.0/exercicio banco.dll
+/home/marcus/Documentos/cursos de programação Udemy/C#/exercicio banco/bin/Debug/net8.0/exercicio banco.pdb
+/home/marcus/Documentos/cursos de programação Udemy/C#/exercicio banco/obj/Debug/net8.0/exercicio banco.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcus/Documentos/cursos de programação Udemy/C#/exercicio banco/obj/Debug/net8.0/exercicio banco.AssemblyInfoInputs.cache
+/home/marcus/Documentos/cursos de programação Udemy/C#/exercicio banco/obj/Debug/net8.0/exercicio banco.AssemblyInfo.cs
+/home/marcus/Documentos/cursos de programação Udemy/C#/exercicio banco/obj/Debug/net8.0/exercicio banco.csproj.CoreCompileInputs.cache
+/home/marcus/Documentos/cursos de programação Udemy/C#/exercicio banco/obj/Debug/net8.0/exercicio banco.dll
+/home/marcus/Documentos/cursos de programação Udemy/C#/exercicio banco/obj/Debug/net8.0/refint/exercicio banco.dll
+/home/marcus/Documentos/cursos de programação Udemy/C#/exercicio banco/obj/Debug/net8.0/exercicio banco.pdb
+/home/marcus/Documentos/cursos de programação Udemy/C#/exercicio banco/obj/Debug/net8.0/exercicio banco.genruntimeconfig.cache
+/home/marcus/Documentos/cursos de programação Udemy/C#/exercicio banco/obj/Debug/net8.0/ref/exercicio banco.dll
