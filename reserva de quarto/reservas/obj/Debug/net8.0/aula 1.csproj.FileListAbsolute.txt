@@ -1,0 +1,14 @@
+/home/marcus/Documentos/cursos de programação Udemy/C#/comportamento de memoria, arrays/memorias/aula 1/bin/Debug/net8.0/aula 1
+/home/marcus/Documentos/cursos de programação Udemy/C#/comportamento de memoria, arrays/memorias/aula 1/bin/Debug/net8.0/aula 1.deps.json
+/home/marcus/Documentos/cursos de programação Udemy/C#/comportamento de memoria, arrays/memorias/aula 1/bin/Debug/net8.0/aula 1.runtimeconfig.json
+/home/marcus/Documentos/cursos de programação Udemy/C#/comportamento de memoria, arrays/memorias/aula 1/bin/Debug/net8.0/aula 1.dll
+/home/marcus/Documentos/cursos de programação Udemy/C#/comportamento de memoria, arrays/memorias/aula 1/bin/Debug/net8.0/aula 1.pdb
+/home/marcus/Documentos/cursos de programação Udemy/C#/comportamento de memoria, arrays/memorias/aula 1/obj/Debug/net8.0/aula 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcus/Documentos/cursos de programação Udemy/C#/comportamento de memoria, arrays/memorias/aula 1/obj/Debug/net8.0/aula 1.AssemblyInfoInputs.cache
+/home/marcus/Documentos/cursos de programação Udemy/C#/comportamento de memoria, arrays/memorias/aula 1/obj/Debug/net8.0/aula 1.AssemblyInfo.cs
+/home/marcus/Documentos/cursos de programação Udemy/C#/comportamento de memoria, arrays/memorias/aula 1/obj/Debug/net8.0/aula 1.csproj.CoreCompileInputs.cache
+/home/marcus/Documentos/cursos de programação Udemy/C#/comportamento de memoria, arrays/memorias/aula 1/obj/Debug/net8.0/aula 1.dll
+/home/marcus/Documentos/cursos de programação Udemy/C#/comportamento de memoria, arrays/memorias/aula 1/obj/Debug/net8.0/refint/aula 1.dll
+/home/marcus/Documentos/cursos de programação Udemy/C#/comportamento de memoria, arrays/memorias/aula 1/obj/Debug/net8.0/aula 1.pdb
+/home/marcus/Documentos/cursos de programação Udemy/C#/comportamento de memoria, arrays/memorias/aula 1/obj/Debug/net8.0/aula 1.genruntimeconfig.cache
+/home/marcus/Documentos/cursos de programação Udemy/C#/comportamento de memoria, arrays/memorias/aula 1/obj/Debug/net8.0/ref/aula 1.dll
